@@ -11,7 +11,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_inappwebview: ^5.2.1+1
+  flutter_inappwebview:
+    git:
+      url: https://github.com/dooully/flutter_inappwebview.git
+      ref: momo
 
 dev_dependencies:
   flutter_test:
