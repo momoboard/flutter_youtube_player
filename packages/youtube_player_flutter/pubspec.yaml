@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   flutter_inappwebview:
     git:
-      url: https://github.com/dooully/flutter_inappwebview.git
+      url: https://github.com/momoboard/flutter_inappwebview.git
       ref: momo
 
 dev_dependencies:
